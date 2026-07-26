@@ -1,13 +1,14 @@
+tfsec-report.json
+tflint-report.json
+gitleaks-report.json
+.terraform.lock.hcl
+
 # Local .terraform directories
 .terraform/
 
 # .tfstate files
 *.tfstate
 *.tfstate.*
-
-*gitleaks.toml
-*.terraform.lock.hcl
-*gitleaks-report.json
 
 # Crash log files
 crash.log
