@@ -4,7 +4,7 @@ rgs = {
     location = "Centralindia"
   }
   rg2 = {
-    name     = "rgkumar"
+    name     = "rgkumar1"
     location = "Centralindia"
   }
 }
