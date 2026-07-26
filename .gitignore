@@ -5,9 +5,9 @@
 *.tfstate
 *.tfstate.*
 
-gitleaks.toml
-.terraform.lock.hcl
-gitleaks-report.json
+*gitleaks.toml
+*.terraform.lock.hcl
+*gitleaks-report.json
 
 # Crash log files
 crash.log
